@@ -1,0 +1,111 @@
+.calculator {
+  min-height: 1400px;
+}
+
+.choise {
+  margin-top: 150px;
+}
+
+.choise .sitee_tx {
+  text-align: center;
+  font-size: 30px;
+}
+
+.choise .sitee {
+  margin-top: 20px;
+  height: 30px;
+  background-color: #31c5eb;
+}
+
+.btn1 {
+  margin-top: 30px;
+  height: 35px;
+  width: 140px;
+  border-radius: 5px;
+  background-color: #31eb8e;
+}
+
+.output {
+  margin-top: 300px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.output_tx {
+  color: #fab908;
+  font-size: 40px;
+  font-weight: 500;
+}
+
+.output_prise {
+  color: #08eafa;
+  font-size: 40px;
+  font-weight: 500;
+}
+
+.out_time {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  color: #08eafa;
+  font-size: 40px;
+  font-weight: 500;
+}
+
+.out_time_time {
+  color: #fab908;
+}
+
+.description {
+  min-height: 700px;
+}
+
+.description_title {
+  text-align: center;
+  font-size: 40px;
+  font-weight: 500;
+  color: #0e8bdf;
+}
+
+.description_tx {
+  opacity: 0;
+  font-size: 28px;
+  margin-top: 40px;
+}
+
+.description_tx.show {
+  opacity: 1;
+  -webkit-transition: opacity 0.7s;
+  transition: opacity 0.7s;
+}
+
+.photos_tx {
+  text-align: center;
+  font-size: 40px;
+  font-weight: 500;
+  color: #0e8bdf;
+}
+
+.photos_img {
+  width: 800px;
+  margin-top: 50px;
+}
+
+.review {
+  min-height: 400px;
+}
+
+.review_title {
+  text-align: center;
+  font-size: 40px;
+  font-weight: 500;
+  color: #0e8bdf;
+}
+/*# sourceMappingURL=style.css.map */
